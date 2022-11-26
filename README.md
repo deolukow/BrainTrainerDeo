@@ -1,1 +1,2 @@
-# BrainTrainer
+# BrainTrainer 
+Excelsis Deo Lukow
